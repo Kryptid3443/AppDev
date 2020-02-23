@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testapp</string>
+    <string name="Question">Question</string>
+    <string name="mtruebutton">True</string>
+    <string name="mfalsebutton">False</string>
+    <string name="Correct_toast">Correct</string>
+    <string name="Incorrect_toast">Incorrect</string>
+    <string name="cheat">Cheat</string>
+    <string name="skip">Skip</string>
+</resources>
